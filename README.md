@@ -1,4 +1,9 @@
-# ReynaOlivia.github.io
-Evidencias de la materia de Programación Web Reyna Olivia Hernández Loredo 15690375
-
-Práctica1: https://reynaolivia.github.io/Practica1.html
+<html>
+  <head>
+  </head>
+  <body>
+    Portafolio de evidencias de la materia de Programación web Reyna Olivia Hernández Loredo 15690375
+    <br>
+    <a href="Practica1.html">Práctica 1 </a> <br>
+  </body>
+  </html>
