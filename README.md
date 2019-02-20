@@ -6,5 +6,6 @@
     <br>
     <a href="Practica1.html">Práctica 1 </a> <br>
     <a href="Practica2.html">Práctica 2 </a> <br>
+    <a href="Practica3.html">Práctica 2 </a> <br>
   </body>
   </html>
